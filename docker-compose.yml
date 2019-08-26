@@ -1,6 +1,6 @@
 version: '3'
 services:
-  cntainer:
+  container:
     build: .
     volumes:
       - ".:/hostdir"
